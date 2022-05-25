@@ -1,10 +1,10 @@
 # AdaptIO
 
-Az alábbi fájlban a "Adaptív rendszerek modellezése" tárgy AdaptIO játékához készített agent kerül bemutatásra.
+Az alábbi fájlban az "Adaptív rendszerek modellezése" tárgy AdaptIO játékához készített agent kerül bemutatásra.
 
 ## A játékos stratégiája
 
-A játékosn a játék során folyamatosan  81 mezőből áll a látótere,  az alábbi formában:
+A játékosnak a játék során folyamatosan  81 mezőből áll a látótere,  az alábbi formában:
 
 ![Képernyőkép 2022-05-25 120222](https://user-images.githubusercontent.com/82844655/170237011-0b819a23-5354-4739-9eec-ff33574b53d3.png)
 
